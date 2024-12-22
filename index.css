@@ -1,0 +1,26 @@
+header,main,img {
+    background-color: rgb(55, 174, 214);
+    font-size: 20px;
+   padding: 1px;
+    margin: 1px;
+    border: 1px solid navy;
+    border-radius: 15px;
+}
+
+main {
+    font-size: 20px;
+   padding: 1px;
+    margin: 1px;
+    border: 1px solid navy;
+    border-radius: 15px;
+    background-color: rgb(55, 174, 214);
+}
+
+table {
+    border-radius: 15px;
+    padding: 1px;
+    margin: 1px;
+    border: 1px solid navy;
+    font-size: 20px;
+    background-color: rgb(55, 55, 231);
+}
